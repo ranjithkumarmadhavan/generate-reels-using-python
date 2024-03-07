@@ -1,0 +1,2 @@
+result with be stored in this directory.
+creating this file so that you dont forget to create this folder
